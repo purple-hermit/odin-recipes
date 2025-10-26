@@ -1,0 +1,15 @@
+*{
+    font-family: "Times New Roman" , Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+p,
+ul,
+ol{
+    font-style: italic;
+}
+
+h1,
+h2{
+    font-style: oblique;
+}
